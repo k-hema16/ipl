@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.latest-match-bg {
+  background-color: #0f172a;
+  display: flex;
+  padding: 20px;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+.team-img {
+  height: 250px;
+}
+.end {
+  text-align: right;
+}

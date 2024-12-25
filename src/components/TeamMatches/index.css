@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.team-matches-bg {
+  background-color: red;
+  padding: 20px;
+  font-family: 'Bree-serif';
+  color: white;
+}
+.team-banner {
+  width: 100%;
+  background-size: cover;
+  max-height: 400px;
+  margin: 10px;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}

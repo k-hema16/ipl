@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.notfound {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.not-found-head {
+  margin: auto;
+  font-size: 35px;
+}

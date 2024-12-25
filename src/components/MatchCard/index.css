@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.item {
+  background-color: black;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 29vw;
+  height: 500px;
+}
+.match-card-img {
+  height: 200px;
+  width:200px;
+  margin-left:auto;
+  margin-right:auto;
+  background-size:cover;
+}
+.red-class {
+  color: #e31a1a;
+}
+.green-class {
+  color: #18ed66;
+}
